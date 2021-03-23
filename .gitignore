@@ -93,6 +93,9 @@ ENV/
 # vim
 *.swp
 
+# vscode
+.vscode/
+
 # Sphinx documentation
 sphinx/build/
 
@@ -115,3 +118,4 @@ website/static/js/*
 website/static/_sphinx-sources/
 node_modules
 captum/insights/attr_vis/widget/static
+
